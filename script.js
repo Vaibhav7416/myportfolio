@@ -68,7 +68,7 @@ topButton.style.fontSize = "18px";
 topButton.style.background = "#ffcc00";
 topButton.style.color = "black";
 topButton.style.border = "none";
-topButton.style.borderRadius = "8px";
+topButton.style.borderRadius = "9px";
 topButton.style.cursor = "pointer";
 topButton.style.display = "none";
 document.body.appendChild(topButton);
